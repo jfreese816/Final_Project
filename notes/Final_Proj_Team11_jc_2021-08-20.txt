@@ -1,0 +1,35 @@
+FINAL PROJ.
+
+1. Review proj. goals, tasks and timeline
+   a) Proj.
+   b) Today's goal
+      i.   Complete data scraping: Top IG influencers urls, IG influencer's data 
+      ii.  Parse and cleanse data. Libs: pandas, json, glob, emoji, nltk
+      iii. Conduct data analysis
+
+   c) Break down milestones, tasks and timeline
+
+2. Conduct code walk-through for;
+   a) Top IG influencers scrape script
+   b) Instascrape status
+   c) current work and understand
+
+3. Code organiation;
+   a) ipynb scripts and naming conventions
+      i.   task
+      ii.  3-4 words to describe, seperated by _
+      iii. coder initials
+      iv.  year, month, date
+
+4. Open Items
+   a) Heroku deployment.
+      i.   Heroku deployment guide is in the week 23.1 folder Heroku_Deployment.
+      ii.  Deploy MongoDB HowTo: https://tinyurl.com/385vzdz4
+      iv.  Deploy MongoDB HowTo_Medium: https://tinyurl.com/4tn8mzvn
+
+   b) SQL DB dev. PostgreSQL or MongoDB
+   c) Presentation Outline, speakers
+   d) Visualization: Website or Tableau
+      i.   Free 7-day UCD Coursera training for Data Viz w/Tableau: https://tinyurl.com/4uk7u5mw
+      ii.  Provides free 6-month Desktop version. Sign up now.
+
