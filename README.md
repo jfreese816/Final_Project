@@ -81,3 +81,6 @@ import re
 ```
 
 ## Credits, tools and other references
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at quam et orci
+ultricies ornare. Fusce nec magna aliquet, congue ante in, lobortis augue. Nunc
+hendrerit massa ut risus molestie egestas.
