@@ -2,11 +2,11 @@
 
 -   [Table of contents](#table-of-contents)
 
--   [Description](#the-challenge)
+-   [Description](#description)
 
--   Key Features
+-   [Key Features](#key-features)
 
--   [The Development Process](#the-developement-process)
+-   [Development Process](#developement-process)
 
 -   [The Output](#the-ouput)
 
