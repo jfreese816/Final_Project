@@ -1,4 +1,4 @@
-# Project Directions based on Instagram: 
+# Project Directions based on Instagram: Select one:
 
 1.  Discover key hashtags that will help increase user engagement and followers
 
@@ -17,7 +17,15 @@
 4.  Scrape top 5 social media influencers, by category, with Beautiful Soup.
     (John)
 
-    1.  Beauty, Travel, Food, Business, Gaming and Technology
+    1.  Beauty
+
+    2.  Travel
+
+    3.  Food
+
+    4.  Business
+
+    5.  Gaming and Technology
 
 # Project Requirements
 
@@ -57,6 +65,8 @@
 |-------------------|-------------------|----------------|
 | Veerpal Sanga     | Yu-Han Chen (Amy) |                |
 | Khanh-Linda Stark | Sanureet Bhullar  |                |
+
+## 
 
 ## 
 
