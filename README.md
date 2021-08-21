@@ -58,11 +58,11 @@ ultricies ornare. Fusce nec magna aliquet, congue ante in, lobortis augue.
 
 3.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```bash
 Git clone https://github.com/speedracer05/Final_Project.git
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```bash
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -72,6 +72,6 @@ from sklearn.ensemble import RandomForestRegressor
 import bs4 import BeautifulSoup
 import requests
 import re
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 
 ## Credits, tools and other references
