@@ -61,6 +61,12 @@ ultricies ornare. Fusce nec magna aliquet, congue ante in, lobortis augue.
 ```bash
 Git clone https://github.com/speedracer05/Final_Project.git
 ```
+### Install the required libraries.
+```bash
+pip install beautifulsoup4, requests
+pip install requests
+pip install selenium
+```
 
 ```bash
 import pandas as pd
