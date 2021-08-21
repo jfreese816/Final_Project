@@ -29,28 +29,28 @@ per conubia nostra, per inceptos himenaeos. Nam efficitur nec quam eget
 scelerisque. In sit amet risus interdum, consectetur sapien in, hendrerit enim.
 In at arcu dui. Nulla vitae turpis.
 
-Key Features
+## Key Features
 
 Key attributes of the project:
 
-Development Process
+## Development Process
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at quam et orci
 ultricies ornare. Fusce nec magna aliquet, congue ante in, lobortis augue. Nunc
 hendrerit massa ut risus molestie egestas.
 
-The Output
+## The Output
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at quam et orci
 ultricies ornare. Fusce nec magna aliquet, congue ante in, lobortis augue. Nunc
 hendrerit massa ut risus molestie egestas.
 
-Installation and Usage
+## Installation and Usage
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at quam et orci
 ultricies ornare. Fusce nec magna aliquet, congue ante in, lobortis augue.
 
-To install the project, follow these steps:
+### To install the project, follow these steps:
 
 1.
 
@@ -72,4 +72,4 @@ import requests
 import re
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Credits, tools and other references
+## Credits, tools and other references
