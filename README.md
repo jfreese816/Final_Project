@@ -49,6 +49,14 @@ hendrerit massa ut risus molestie egestas.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at quam et orci
 ultricies ornare. Fusce nec magna aliquet, congue ante in, lobortis augue.
+1. Clone:
+```bash
+git clone git@github.com:speedracer/Final_Project.git
+```
+2. Install dependencies
+3.   - `something here
+4. Install Chrome Web Driver
+5. 
 
 ### To install the project, follow these steps:
 
