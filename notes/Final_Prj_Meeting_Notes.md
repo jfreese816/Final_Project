@@ -1,10 +1,11 @@
-# Project Directions based on Instagram: 
+# Project Directions based on Instagram:
 
-1.  Discover key hashtags that will help increase user engagement and followers
+1.  **\*\*Detect top trending topics using word clouds and/or graph theory**
 
-2.  Predict which IG influencers will grow or decline in the next 30-days.
+2.  Discover key hashtags, and/or other metrics, that will help increase user
+    engagement and followers
 
-3.  Detect top trending topics using word clouds and/or graph theory
+3.  Predict which IG influencers will grow or decline in the next 30-days.
 
 ## Next Steps
 
