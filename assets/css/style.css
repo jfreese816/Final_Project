@@ -72,37 +72,7 @@ a.navbar-brand {
     color: #ed4d2e;
     background-color: transparent;
 }
-
-/* Social icon */
-.social {
-    float: right;
-    padding: 0.8em 0 0;
-}
-.social ul {
-    padding: 0;
-    margin: 0;
-}
-.social ul li {
-    display: inline-block;
-    margin: 0 3px;
-}
-.social ul li a.facebook {
-    background: url(../images/social.png) no-repeat 0px 0px;
-    width: 32px;
-    height: 32px;
-    display: block;
-}
-
-.social ul li a.twitter {
-    background: url(../images/social.png) no-repeat -34px 0px;}
-
-    .social ul li a.chrome {
-        background: url(../images/social.png) no-repeat -68px 0px;}    
-        .social ul li a.in {
-            background: url(../images/social.png) no-repeat -102px 0px;}
-.social ul li a.facebook:hover {
-    opacity: 0.6;
-}    
+ 
 
 /* Make it responsive */
 
@@ -119,12 +89,6 @@ a.navbar-brand {
     .navbar-nav {
         margin-left: 0em;
     }
-    .social ul li {
-        margin: 0 0px;
-    }
-    .social {
-        padding: 0.4em 0 0;
-    }
 }
 @media script and (max-width:480px) {
     .logo h1 {
@@ -137,3 +101,20 @@ a.navbar-brand {
         padding: 0.4em 0;
     }
 }
+
+
+/*  SECTIONS  */
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+.col:first-child { margin-left: 0; }
+
