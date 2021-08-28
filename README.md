@@ -1,3 +1,6 @@
+Hosted Presentation in Tableau: https://public.tableau.com/app/profile/veerpal/viz/Instagram_Analysis_ML/MLStory?publish=yes
+
+
 # Detect top trending topics and hashtags
 
 -   [Table of contents](#table-of-contents)
@@ -16,55 +19,36 @@
 
 ## Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at quam et orci
-ultricies ornare. Fusce nec magna aliquet, congue ante in, lobortis augue. Nunc
-hendrerit massa ut risus molestie egestas. Nunc nec consectetur massa, sed
-sagittis mi. Cras quis massa nunc. Fusce sagittis est a felis dictum blandit.
-Praesent faucibus quam dui, et tristique quam eleifend non.
-
-Praesent enim sem, hendrerit eget interdum in, iaculis at sapien. Nam eleifend
-felis arcu, sed consectetur mi varius in. Nullam dolor sapien, faucibus eget
-massa id, sodales rhoncus enim. Class aptent taciti sociosqu ad litora torquent
-per conubia nostra, per inceptos himenaeos. Nam efficitur nec quam eget
-scelerisque. In sit amet risus interdum, consectetur sapien in, hendrerit enim.
-In at arcu dui. Nulla vitae turpis.
+The expectation with this project is to gauge how well an influencer engages with it's followers, 
+what trends are occuring with the usage of hashtags and the sentiments of the posts. 
+Also, look at the various relationships between likes, comments, followers, # of posts and so forth. 
 
 ## Key Features
 
-Key attributes of the project:
+Key attributes of the project: Instagram, Instagramy, NLTK- SentimentIntensityAnalyzer
 
 ## Development Process
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at quam et orci
-ultricies ornare. Fusce nec magna aliquet, congue ante in, lobortis augue. Nunc
-hendrerit massa ut risus molestie egestas.
+Utilized Python-Jupyter Notebooks, Tableau, & Excel to analyze, visualize, and assess sentiment analysis. 
 
 ## The Output
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at quam et orci
-ultricies ornare. Fusce nec magna aliquet, congue ante in, lobortis augue. Nunc
-hendrerit massa ut risus molestie egestas.
+Tableau Story with Instagram Users (29 users), recent 12 posts, sentiment analysis on each post, 
+and an overall analysis on the average sentiment analysis. 
 
 ## Installation and Usage
+Jupyter Notebook:
+Instagramy Library in conjunction with pandas, time
+https://pypi.org/project/instagramy/#Instagram-Post-details 
+-Pulled user profile data
+-Pulled posts & hashtags
+Wordcloud, Pillow, matplotlib, numpy, collections
+Machine Learning Portion: Utilize Natural Language processing libraries to assess sentiments of each post
+Tried/tested: sklearn model; with GradientBoostRegressor, in conjunction with:Matplotlib, pandas, tensorflow, numpy, re, seaborn, %matplotlib inline
+Nautal Language Processing: Pandas, Spacy, nltk, os, string, nltk.stem - WordNetLemmatizer, nltk.sentiment - SentimentIntensityAnalyzer
+Tableau
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at quam et orci
-ultricies ornare. Fusce nec magna aliquet, congue ante in, lobortis augue.
-1. Clone:
-```bash
-git clone git@github.com:speedracer/Final_Project.git
-```
-2. Install dependencies
-3.   - `something here
-4. Install Chrome Web Driver
-5. 
 
-### To install the project, follow these steps:
-
-1.
-
-2.
-
-3.
 
 ```bash
 Git clone https://github.com/speedracer05/Final_Project.git
